@@ -11,7 +11,8 @@ npm -v
 
 ```console
 git clone https://github.com/tahid/tmpjsonconvertor.git
-cd tmpjsonconvertor # cd into the cloned folder
+# cd into the cloned folder
+cd tmpjsonconvertor 
 npm install
 node app.js
 ```
