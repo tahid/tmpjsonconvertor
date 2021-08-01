@@ -21,5 +21,5 @@ node app.js
 The output will be in an output directory within the application
 
 ## My Data
-Please replace the data.csv
-In a new CSV please keep the headers as in the example.
+Please replace the data in data.csv, with your information.
+In a new CSV please keep the headers as in the data.csv example.
