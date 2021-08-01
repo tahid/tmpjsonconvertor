@@ -1,0 +1,31 @@
+{
+  "tags": [
+    {
+      "title": "tag1",
+      "type": "sidecar",
+      "color": "#008000",
+      "textcolor": "#ffffff"
+    },
+    {
+      "title": "tag2",
+      "type": "sidecar",
+      "color": "#008000",
+      "textcolor": "#ffffff"
+    },
+    {
+      "title": "group2tag1",
+      "type": "sidecar",
+      "color": "#f83a22ff",
+      "textcolor": "white"
+    },
+    {
+      "title": "group21tag1",
+      "type": "sidecar",
+      "color": "#f83a22ff",
+      "textcolor": "white"
+    }
+  ],
+  "appName": "TagSpaces",
+  "appVersion": "3.9.8",
+  "lastUpdated": "2021-07-07T12:09:32.663Z"
+}
